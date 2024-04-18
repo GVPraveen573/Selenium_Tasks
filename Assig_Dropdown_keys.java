@@ -20,8 +20,6 @@ public class Assig_Dropdown_keys {
 		driver.findElement(By.id("twotabsearchtextbox")).sendKeys("World War");
 		Thread.sleep(1000);
 		driver.findElement(By.id("nav-search-submit-button")).click();
-		
-		
 
 	}
 
